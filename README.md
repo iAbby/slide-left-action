@@ -28,7 +28,3 @@ var sla = new slideLeftAction({
     }]
 });
 ```
-
-## preview
-> * [click here](https://yangyuji.github.io/slide-left-action/demo.html)
-> * ![qrcode](https://github.com/yangyuji/slide-left-action/blob/master/qrcode.png)
